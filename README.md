@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # AI-ML
 Gen AI - Computer Vision Object Detection 
 =======
-=======
->>>>>>> master
+
 # 🎉 Object Detection with YOLOv8  
 
 Welcome to the **Object Detection** project! This repository contains code and resources for detecting objects in images using the YOLOv8 algorithm.   
