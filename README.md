@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AI-ML
 Gen AI - Computer Vision Object Detection 
 =======
+=======
+>>>>>>> master
 # 🎉 Object Detection with YOLOv8  
 
 Welcome to the **Object Detection** project! This repository contains code and resources for detecting objects in images using the YOLOv8 algorithm.   
@@ -34,5 +37,9 @@ Make sure you have the following installed:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git  
+<<<<<<< HEAD
    cd REPOSITORY_NAME
 >>>>>>> 36a958087ba651ff0cb2069be171c39f98b5739d
+=======
+   cd REPOSITORY_NAME
+>>>>>>> master
